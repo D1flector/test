@@ -1,0 +1,39 @@
+.container {
+    margin: 0 300px;
+    display: flex;
+    border: 1px solid #000;
+    background-color: #fff;
+}
+
+.btn1{
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 100px auto;
+    transition: .2s ease;
+}
+
+.btn1:hover {
+    transform: scale(1.1);
+}
+
+.btn2 {
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 100px auto;
+    transition: .2s ease;
+}
+
+.btn2:hover {
+    transform: scale(1.1);
+}
+
+.btn3 {
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 100px auto;
+    transition: .2s ease;
+}
+
+.btn3:hover {
+    transform: scale(1.1);
+}
